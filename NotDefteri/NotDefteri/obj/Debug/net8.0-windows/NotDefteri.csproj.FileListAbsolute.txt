@@ -1,0 +1,16 @@
+C:\Users\10\Desktop\CSharp_Proje\NotDefteri\NotDefteri\NotDefteri\obj\Debug\net8.0-windows\NotDefteri.Form1.resources
+C:\Users\10\Desktop\CSharp_Proje\NotDefteri\NotDefteri\NotDefteri\obj\Debug\net8.0-windows\NotDefteri.csproj.GenerateResource.cache
+C:\Users\10\Desktop\CSharp_Proje\NotDefteri\NotDefteri\NotDefteri\obj\Debug\net8.0-windows\NotDefteri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10\Desktop\CSharp_Proje\NotDefteri\NotDefteri\NotDefteri\obj\Debug\net8.0-windows\NotDefteri.AssemblyInfoInputs.cache
+C:\Users\10\Desktop\CSharp_Proje\NotDefteri\NotDefteri\NotDefteri\obj\Debug\net8.0-windows\NotDefteri.AssemblyInfo.cs
+C:\Users\10\Desktop\CSharp_Proje\NotDefteri\NotDefteri\NotDefteri\obj\Debug\net8.0-windows\NotDefteri.csproj.CoreCompileInputs.cache
+C:\Users\10\Desktop\CSharp_Proje\NotDefteri\NotDefteri\NotDefteri\bin\Debug\net8.0-windows\NotDefteri.exe
+C:\Users\10\Desktop\CSharp_Proje\NotDefteri\NotDefteri\NotDefteri\bin\Debug\net8.0-windows\NotDefteri.deps.json
+C:\Users\10\Desktop\CSharp_Proje\NotDefteri\NotDefteri\NotDefteri\bin\Debug\net8.0-windows\NotDefteri.runtimeconfig.json
+C:\Users\10\Desktop\CSharp_Proje\NotDefteri\NotDefteri\NotDefteri\bin\Debug\net8.0-windows\NotDefteri.dll
+C:\Users\10\Desktop\CSharp_Proje\NotDefteri\NotDefteri\NotDefteri\bin\Debug\net8.0-windows\NotDefteri.pdb
+C:\Users\10\Desktop\CSharp_Proje\NotDefteri\NotDefteri\NotDefteri\obj\Debug\net8.0-windows\NotDefteri.dll
+C:\Users\10\Desktop\CSharp_Proje\NotDefteri\NotDefteri\NotDefteri\obj\Debug\net8.0-windows\refint\NotDefteri.dll
+C:\Users\10\Desktop\CSharp_Proje\NotDefteri\NotDefteri\NotDefteri\obj\Debug\net8.0-windows\NotDefteri.pdb
+C:\Users\10\Desktop\CSharp_Proje\NotDefteri\NotDefteri\NotDefteri\obj\Debug\net8.0-windows\NotDefteri.genruntimeconfig.cache
+C:\Users\10\Desktop\CSharp_Proje\NotDefteri\NotDefteri\NotDefteri\obj\Debug\net8.0-windows\ref\NotDefteri.dll
